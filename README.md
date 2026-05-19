@@ -8,10 +8,10 @@ Proyecto full-stack desarrollado para la gestión moderna de dispositivos tecnol
 Aquí puedes ver cómo luce y funciona la interfaz de **Fastech**:
 
 ### Vista del Catálogo
-![Catálogo de Productos](./public/productos/captura_catalogo.png)
+![Catálogo de Productos](./public/productos/catalogo.png)
 
 ### Panel de Inventario
-![Control de Inventario](./public/productos/captura_inventario.png)
+![Control de Inventario](./public/productos/inventario.png)
 
 ---
 
