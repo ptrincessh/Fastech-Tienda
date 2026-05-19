@@ -21,3 +21,6 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+# Ocultar la contraseña real de MySQL del proyecto Fastech
+.env
